@@ -1,2 +1,2 @@
 # AECTechPlus24
-For sharing files with workshop participants at the AECTech+ Barcelona event.
+For sharing files with workshop participants at [AECTech+ Barcelona 2024](https://www.aectech.us/aectech-barcelona).
