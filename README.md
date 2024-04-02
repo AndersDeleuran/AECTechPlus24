@@ -9,6 +9,6 @@ If you are unfamiliar/rusty with GHPython I would suggest flipping through my [B
 
 ![GH103](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/GH103_Exercises/211103_Grasshopper103_CPH_Redacted.png)
 
-And perhaps have a quick fiddle with [some of the exercises](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/GH103_Exercises):
+And perhaps having a quick fiddle with [some of its exercise snippets](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/GH103_Exercises):
 
 ![Exercise Snippets](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/GH103_Exercises/210911_ExerciseSnippets_00.png)
