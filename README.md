@@ -9,7 +9,7 @@ There is more to running GHPython components in SDK Mode than compiling plugins.
 
 ## Prerequisites 
 
-If you are unfamiliar or rusty with GHPython I would suggest flipping through this [beginners course](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf):
+If you are unfamiliar or rusty with GHPython I would suggest flipping through [this beginners course](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf):
 
 ![GH103](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/GH103_Exercises/211103_Grasshopper103_CPH_Redacted.png)
 
