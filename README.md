@@ -5,7 +5,7 @@ For sharing files with workshop participants at [AECTech+ Barcelona 2024](https:
 
 ## Prerequisites 
 
-If you are unfamiliar/rusty with GHPython I would suggest flipping through my BIG Academy beginners course (download [GH103 Slideshow](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf)):
+If you are unfamiliar/rusty with GHPython I would suggest flipping through my [BIG Academy beginners course](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf):
 
 ![GH103](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/GH103_Exercises/211103_Grasshopper103_CPH_Redacted.png)
 
