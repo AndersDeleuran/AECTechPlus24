@@ -11,3 +11,7 @@ If you are unfamiliar or rusty with GHPython I would suggest flipping through [t
 And perhaps having a quick fiddle with [some of its exercise snippets](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises_GH103):
 
 ![Exercise Snippets](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/210911_ExerciseSnippets_00.png)
+
+## Slideshow & Exercises
+
+ ![GH104](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/240419_AECTech2024.png)
