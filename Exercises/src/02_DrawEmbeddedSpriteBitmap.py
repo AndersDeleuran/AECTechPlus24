@@ -1,0 +1,31 @@
+﻿import System
+import Rhino as rc
+import Grasshopper as gh
+import GhPython.Assemblies.ExecutingComponent as component
+
+class MyComponent(component):
+        
+    def RunScript(self,X,Y):
+        self.pt = rc.Geometry.Point2d(X,Y)
+        
+    def DrawForeground(self,sender,arg):
+        
+        # Check component preview/locked, active GH document and Rhino viewport
+        if (not ghenv.Component.Hidden and not ghenv.Component.Locked 
+            and ghenv.Component.OnPingDocument() == gh.Instances.ActiveCanvas.Document
+            and arg.Viewport.Id == arg.RhinoDoc.ActiveDoc.Views.ActiveView.ActiveViewportID):
+            
+            # Convert image encoded as byte string to .NET bitmap
+            string = "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"
+            byteArray = System.Convert.FromBase64String(string)
+            bitmap1 = System.Drawing.ImageConverter().ConvertFrom(byteArray)
+            
+            # Convert to RhinoCommon bitmap and draw sprite
+            bitmap2 = rc.Display.DisplayBitmap(bitmap1)
+            arg.Display.DrawSprite(bitmap2,self.pt,64,64)
+            
+    def __exit__(self):
+        rc.Display.DisplayPipeline.DrawForeground -= self.DrawForeground
+        
+    def __enter__(self):
+        rc.Display.DisplayPipeline.DrawForeground += self.DrawForeground
