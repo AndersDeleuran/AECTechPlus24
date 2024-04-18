@@ -4,11 +4,9 @@ There is more to running GHPython components in SDK Mode than compiling plugins.
 
 ## Prerequisites 
 
-If you are unfamiliar or rusty with GHPython I would suggest flipping through [this 197 page slideshow](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf) ([mirror](https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)) I have been using when teaching our BIG Academy GHPython beginners course (note that is has been slightly redacted for confidentiality):
+If you are unfamiliar or rusty with GHPython I would suggest flipping through [this 197 page PDF slideshow](https://andersholdendeleuran.com/211103_Grasshopper103_CPH_Redacted.pdf) ([mirror](https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)) and its accompanying [exercise snippets](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises_GH103). I have been using these when teaching our in-house BIG Academy GHPython beginners course (note that it has been slightly redacted for confidentiality):
 
 ![GH103](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/211103_Grasshopper103_CPH_Redacted.png)
-
-And perhaps having a quick fiddle with [some of its exercise snippets](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises_GH103):
 
 ![Exercise Snippets](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/210911_ExerciseSnippets_00.png)
 
