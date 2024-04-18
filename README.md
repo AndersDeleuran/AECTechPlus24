@@ -24,5 +24,5 @@ And perhaps having a quick fiddle with [some of its exercise snippets](https://g
 
 
 
-https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0
-https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0
+[mirror(https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)
+[mirror](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)
