@@ -4,7 +4,7 @@ There is more to running GHPython components in SDK Mode than compiling plugins.
 
 ## Slideshow & Exercises
 
-I have prepared this [44 page PDF slideshow](https://andersholdendeleuran.com/240418_AECTech2024.pdf) ([mirror](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)) and a collection of [new accompanying exercise files](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises) for our AECtech+ workshop at the McNeel Europe headquarters in Barcelona. You can click the green `Code` button above and select `Download Zip` if you want to download all the exercises at once.
+I have prepared this [44 page PDF slideshow](https://andersholdendeleuran.com/240418_AECTech2024.pdf) ([mirror](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)) and a collection of [accompanying exercise files](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises) for our AECtech+ workshop at the McNeel Europe headquarters in Barcelona. You can click the green `Code` button above and select `Download Zip` if you want to download all the exercises at once.
 
 ![GH104](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/240419_AECTech2024.png)
 
