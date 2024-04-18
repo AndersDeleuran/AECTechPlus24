@@ -13,7 +13,7 @@ If you are unfamiliar or rusty with GHPython, I would suggest flipping through [
 
 ## Slideshow & Exercises
 
-For this workshop I have prepared [a 44 page PDF slideshow](https://andersholdendeleuran.com/240418_AECTech2024.pdf) ([mirror](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)):
+I have prepared [this 44 page PDF slideshow](https://andersholdendeleuran.com/240418_AECTech2024.pdf) ([mirror](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)) and a collection of [new accompanying exercise files](https://github.com/AndersDeleuran/AECTechPlus24/tree/main/Exercises) for our AECtech+ workshop, here at the McNeel Europe headquarters in Barcelona:
 
 ![GH104](https://raw.githubusercontent.com/AndersDeleuran/AECTechPlus24/main/Images/240419_AECTech2024.png)
 
