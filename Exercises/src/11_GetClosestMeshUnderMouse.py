@@ -28,19 +28,19 @@ class MyComponent(component):
         ray = rc.Geometry.Ray3d(fl.From,fl.Direction)
         
         # Shot ray onto meshes
-        hitMeshes = []
-        hitParams = []
-        for m in Meshes:
+        hits = []
+        for i,m in enumerate(Meshes):
             t = rc.Geometry.Intersect.Intersection.MeshRay(m,ray)
             if t >= 0.0:
-                hitMeshes.append(m)
-                hitParams.append(t)
+                hits.append((t,i,m))
                 
-        # Get closest hit mesh and return it
-        if hitParams:
-            return hitMeshes[hitParams.index(max(hitParams))]
+        # Get closest hit index/mesh and return those
+        if hits:
+            hits.sort(reverse=True)
+            t,i,m = hits[0]
+            return i,m
         else:
-            return []
+            return [],[]
             
     def __enter__(self):
         self.mouse = MyMouseCallback()
